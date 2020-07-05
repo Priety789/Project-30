@@ -1,2 +1,2 @@
-# Project-30
-Shoot a block at a pyramid of blocks to make them disappear. 
+# p5.play-boilerplate
+Boiler plate for p5.play
